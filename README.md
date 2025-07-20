@@ -19,6 +19,7 @@ This project simulates a real-world development environment—from receiving des
 - [Roadmap](#roadmap)
 - [How to Contribute](#how-to-contribute)
 - [Contributors](#contributors)
+- [Code of Conduct](#code-of-conduct)
 - [Deployment](#deployment)
 - [License](#license)
 
@@ -220,6 +221,10 @@ Figma License: [Free Figma Design Source](https://www.figma.com/design/GN707LPUS
 📌 See [CONTRIBUTING.md](.github/CONTRIBUTING.md) for full contribution workflow and commit standards.
 
 ---
+
+# Code of Conduct
+
+🤝 We expect all contributors to follow our [Code of Conduct](.github/CODE_OF_CONDUCT.md).
 
 ## Contributors
 
