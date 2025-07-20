@@ -163,52 +163,62 @@ Figma License: [Free Figma Design Source](https://www.figma.com/design/GN707LPUS
 
 ### Milestone: `v0.1 – Authentication & Setup`
 
-- [ ] Setup project
-- [ ] Implement Register Page UI
-- [ ] Implement Login Page UI
-- [ ] Hook up backend authentication
-- [ ] User session persistence (localStorage or cookies)
+- [ ] Setup project structure
+- [ ] Create folder structure
+- [ ] Design Register Page UI
+- [ ] Design Login Page UI
+- [ ] Integrate register API
+- [ ] Integrate login API
+- [ ] Persist user session
+- [ ] Protect routes (auth middleware)
 
 ---
 
 ### Milestone: `v0.2 – Dashboard & Tasks`
 
-- [ ] Dashboard Layout (Sidebar + Header)
-- [ ] My Tasks Page
-- [ ] Vital Tasks Filtering
-- [ ] Task Card Component
-- [ ] View Task Details Popup
-- [ ] Search Task Functionality
+- [ ] Create dashboard layout
+- [ ] Build My Tasks page
+- [ ] Implement vital task filter
+- [ ] Create task card component
+- [ ] View task details popup
+- [ ] Search task functionality
 
 ---
 
 ### Milestone: `v0.3 – Task Management Features`
 
-- [ ] Add / Edit / Delete Task
-- [ ] Add / Edit Task Status
-- [ ] Add / Edit Task Priority
-- [ ] Add / Edit / Delete Categories
-- [ ] Add Calendar Dropdown
-- [ ] Notifications Dropdown
+- [ ] Add task functionality
+- [ ] Edit task functionality
+- [ ] Delete task functionality
+- [ ] Add / Edit task status
+- [ ] Add / Edit task priority
+- [ ] Add / Edit / Delete categories
+- [ ] Build calendar dropdown
+- [ ] Create notifications dropdown
 
 ---
 
 ### Milestone: `v0.4 – User Account Settings`
 
-- [ ] Account Information Page
-- [ ] Update Account Info Page
-- [ ] Change Password Page
-- [ ] Send Invitation Popup
+- [ ] Build Account Information Page
+- [ ] Implement Update Account Info Page
+- [ ] Create Change Password Page
+- [ ] Send invitation popup
 
 ---
 
 ### Milestone: `v1.0 – MVP Release`
 
-- [ ] Final QA & bug fixes
+- [ ] Final QA Testing
 - [ ] Responsive Design Review
-- [ ] Code clean-up & linting
+- [ ] Cross-browser Testing
+- [ ] Accessibility Review
+- [ ] Performance Optimization
+- [ ] Code Cleanup & Linting
+- [ ] Update Documentation
+- [ ] Prepare Production Build
 - [ ] Deploy to Vercel
-- [ ] Write complete documentation
+- [ ] Tag Release v1.0
 
 ## Project Structure
 
