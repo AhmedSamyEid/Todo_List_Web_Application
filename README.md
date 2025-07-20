@@ -1,4 +1,4 @@
-![Banner](https://github.com/mahmoud-abuyoussef/Todo_List_Web_Application/blob/main/public/banner.webp)
+![Banner](https://github.com/mahmoud-abuyoussef/Todo_List_Web_Application/blob/main/.github/assets/banner.webp)
 
 # 📝 Todo List Web App — Real-World Front-End Training Project
 
