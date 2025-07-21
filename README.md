@@ -238,19 +238,10 @@ Figma License: [Free Figma Design Source](https://www.figma.com/design/GN707LPUS
 
 ## Contributors
 
-<img src="https://avatars.githubusercontent.com/u/170262504?v=4" style="border-radius: 50%; width: 40px;"/>
-
-**Ahmed Samy**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-samy-454b72365/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AhmedSamyEid)
-
-<img src="https://avatars.githubusercontent.com/u/170369393?v=4" style="border-radius: 50%; width: 40px;"/>
-
-**Mahmoud Abu Zaid**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-abu-zaid-742bb2365/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mahmoud-abu-zaid)
+| Avatar                                                                                                     | Name                 | GitHub                                                   | LinkedIn                                                            |
+| ---------------------------------------------------------------------------------------------------------- | -------------------- | -------------------------------------------------------- | ------------------------------------------------------------------- |
+| <img src="https://avatars.githubusercontent.com/u/170262504?v=4" width="50" style="border-radius: 50%;" /> | **Ahmed Samy**       | [@AhmedSamyEid](https://github.com/AhmedSamyEid)         | [LinkedIn](https://www.linkedin.com/in/ahmed-samy-454b72365/)       |
+| <img src="https://avatars.githubusercontent.com/u/170369393?v=4" width="50" style="border-radius: 50%;" /> | **Mahmoud Abu Zaid** | [@Mahmoud-abu-zaid](https://github.com/Mahmoud-abu-zaid) | [LinkedIn](https://www.linkedin.com/in/mahmoud-abu-zaid-742bb2365/) |
 
 ---
 
