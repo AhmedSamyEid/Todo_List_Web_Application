@@ -2,6 +2,8 @@
 
 # 📝 Todo List Web App — Real-World Front-End Training Project
 
+![Maintainer](https://img.shields.io/badge/Maintainer-Mahmoud%20Abuyoussef-blue?style=flat-square)
+
 > 🧑‍🏫 **Note:** This project is part of a **professional front-end training program**, supervised by a senior developer to simulate a real-world team workflow.
 
 A professional training project for building a responsive and modern **Todo List Web Application**, developed by a team of front-end developers under the supervision of a Senior Front-End Developer.  
@@ -17,11 +19,14 @@ This project simulates a real-world development environment—from receiving des
 - [Core Functionalities](#core-functionalities)
 - [API Documentation](#api-documentation)
 - [Roadmap](#roadmap)
+- [Project Board](#project-board)
 - [How to Contribute](#how-to-contribute)
 - [Code of Conduct](#code-of-conduct)
 - [Contributors](#contributors)
 - [Deployment](#deployment)
 - [License](#license)
+- [License Terms](#license-terms)
+- [Attribution](#attribution)
 
 ## Project Goal
 
@@ -220,6 +225,10 @@ Figma License: [Free Figma Design Source](https://www.figma.com/design/GN707LPUS
 - [ ] Deploy to Vercel
 - [ ] Tag Release v1.0
 
+## Project Board
+
+> 🗂️ Project Board: [View on GitHub Projects](https://github.com/users/mahmoud-abuyoussef/projects/9)
+
 ## Project Structure
 
 > 📁 Project structure will be added once the initial codebase scaffolding is finalized.
@@ -232,7 +241,7 @@ Figma License: [Free Figma Design Source](https://www.figma.com/design/GN707LPUS
 
 ---
 
-# Code of Conduct
+## Code of Conduct
 
 🤝 We expect all contributors to follow our [Code of Conduct](.github/CODE_OF_CONDUCT.md).
 
@@ -256,6 +265,8 @@ Figma License: [Free Figma Design Source](https://www.figma.com/design/GN707LPUS
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudabuyoussef)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/mahmoudabuyoussef)
 
+Feel free to reach out for collaboration, feedback, or questions.
+
 ---
 
 ## Deployment
@@ -266,4 +277,26 @@ Figma License: [Free Figma Design Source](https://www.figma.com/design/GN707LPUS
 
 ## License
 
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/mahmoud-abuyoussef/To-do_List/blob/main/LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/mahmoud-abuyoussef/Todo_List_Web_Application/blob/main/LICENSE)
+
+## License Terms
+
+You're free to use this project under the MIT license.  
+However, **you must retain the license file and attribute the original author** (Mahmoud Abuyoussef) when reusing or modifying the codebase.
+
+> ⚠️ If you reuse or modify this codebase, you **must** retain the original license and give appropriate credit to the author.
+
+---
+
+## Attribution
+
+This project is led and maintained by **[Mahmoud Abuyoussef](https://github.com/mahmoud-abuyoussef)**  
+with valuable contributions from the development team.
+
+Contributors:
+
+- [Ahmed Samy](https://github.com/AhmedSamyEid)
+- [Mahmoud Abu Zaid](https://github.com/Mahmoud-abu-zaid)
+
+You are welcome to contribute or reuse parts of the project under the terms of the MIT license.  
+Please retain proper credit when using this codebase.
