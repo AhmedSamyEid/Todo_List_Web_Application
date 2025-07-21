@@ -11,7 +11,7 @@ Follow the steps below to get started and collaborate effectively using Git and 
 # 1. Fork the repository
 
 # 2. Clone your fork
-git clone git@github.com:your-username/Todo_List_Web_Application.git
+git clone git@github.com:mahmoud-abuyoussef/Todo_List_Web_Application.git
 
 # 3. Navigate to the project directory
 cd Todo_List_Web_Application
