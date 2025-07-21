@@ -37,6 +37,8 @@ This project simulates a real-world development environment—from receiving des
 - Write clean, maintainable, and scalable code.
 - Experience full software development workflow (from development to production).
 
+> 💡 Want to start your own version or contribute? Fork the repo or open a new issue!
+
 ---
 
 ![Status](https://img.shields.io/badge/Status-In_Progress-blue)
