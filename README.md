@@ -18,8 +18,8 @@ This project simulates a real-world development environment—from receiving des
 - [API Documentation](#api-documentation)
 - [Roadmap](#roadmap)
 - [How to Contribute](#how-to-contribute)
-- [Contributors](#contributors)
 - [Code of Conduct](#code-of-conduct)
+- [Contributors](#contributors)
 - [Deployment](#deployment)
 - [License](#license)
 
@@ -244,6 +244,13 @@ Figma License: [Free Figma Design Source](https://www.figma.com/design/GN707LPUS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-samy-454b72365/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AhmedSamyEid)
+
+<img src="https://avatars.githubusercontent.com/u/170369393?v=4" style="border-radius: 50%; width: 40px;"/>
+
+**Mahmoud Abu Zaid**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-abu-zaid-742bb2365/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mahmoud-abu-zaid)
 
 ---
 
