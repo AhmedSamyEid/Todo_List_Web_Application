@@ -172,7 +172,7 @@ Figma License: [Free Figma Design Source](https://www.figma.com/design/GN707LPUS
 
 ### Milestone: `v0.1 – Authentication & Setup`
 
-- [ ] Setup project structure
+- [x] Setup project structure
 - [ ] Create folder structure
 - [ ] Design Register Page UI
 - [ ] Design Login Page UI
