@@ -1,1 +1,10 @@
 @import "tailwindcss";
+
+.auth-layout {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-image: url("/images/background.webp");
+  background-color: #ff6767;
+}
