@@ -3,16 +3,13 @@
 import { FcGoogle } from "react-icons/fc";
 import { FaUser, FaLock, FaFacebook } from "react-icons/fa";
 import { useEffect, useState } from "react";
-import { useRouter } from "next/navigation";
+
 import { FaSquareXTwitter } from "react-icons/fa6";
 
 export default function LoginPage() {
-  const router = useRouter();
-
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
   const [rememberMe, setRememberMe] = useState(false);
-  const [error, setError] = useState("");
 
   useEffect(() => {
     const savedUsername = localStorage.getItem("username");
@@ -28,34 +25,15 @@ export default function LoginPage() {
 
   const handleLogin = async (e: React.FormEvent) => {
     e.preventDefault();
-    setError("");
 
-    try {
-      const response = await fetch("/api/login", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ username, password }),
-      });
-
-      const data = await response.json();
-
-      if (response.ok) {
-        if (rememberMe) {
-          localStorage.setItem("username", username);
-          localStorage.setItem("password", password);
-          localStorage.setItem("rememberMe", "true");
-        } else {
-          localStorage.removeItem("username");
-          localStorage.removeItem("password");
-          localStorage.removeItem("rememberMe");
-        }
-
-        router.push("/");
-      } else {
-        setError(data.message || "بيانات الدخول غير صحيحة ❌");
-      }
-    } catch {
-      setError("حدث خطأ أثناء الاتصال بالخادم");
+    if (rememberMe) {
+      localStorage.setItem("username", username);
+      localStorage.setItem("password", password);
+      localStorage.setItem("rememberMe", "true");
+    } else {
+      localStorage.removeItem("username");
+      localStorage.removeItem("password");
+      localStorage.removeItem("rememberMe");
     }
   };
 
@@ -95,8 +73,6 @@ export default function LoginPage() {
           <button onClick={handleLogin} className="bg-[#ff9090] hover:bg-[#f87272] text-white px-6 py-2 rounded-md mb-4 w-fit">
             Login
           </button>
-
-          {error && <p className="text-red-500 text-sm mb-4">{error}</p>}
 
           <div className="flex items-center mb-4">
             <span className="mr-2">Or, Login with</span>
